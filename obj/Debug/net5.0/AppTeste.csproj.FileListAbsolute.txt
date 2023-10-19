@@ -1,0 +1,16 @@
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.exe
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.deps.json
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.runtimeconfig.json
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.runtimeconfig.dev.json
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.dll
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\ref\AppTeste.dll
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.pdb
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.csproj.AssemblyReference.cache
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.AssemblyInfoInputs.cache
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.AssemblyInfo.cs
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.dll
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\ref\AppTeste.dll
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.pdb
+C:\Users\yuri.yap\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.genruntimeconfig.cache
